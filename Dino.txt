@@ -1,0 +1,8 @@
+Postgres cluster t-rexor-db created
+  Username:    postgres
+  Password:    fFji76JQF16uXTu
+  Hostname:    t-rexor-db.internal
+  Flycast:     fdaa:2:53f0:0:1::6
+  Proxy port:  5432
+  Postgres port:  5433
+  Connection string: postgres://postgres:fFji76JQF16uXTu@t-rexor-db.flycast:5432

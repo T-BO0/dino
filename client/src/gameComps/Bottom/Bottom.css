@@ -1,0 +1,8 @@
+    #ground{
+    position: relative;
+    background-image: url('../ground.png');
+    width: 600px;
+    height: 15px;
+    margin-top: 78px;
+    background-size: 15px 20px;
+  }
